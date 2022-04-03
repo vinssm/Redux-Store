@@ -1,7 +1,7 @@
 # Redux-Store
 
 ### Description
-- 
+- Refactor the e-commerce platform from the module project so that it uses Redux
 
 ### User Story
 - AS a senior engineer working on an e-commerce platform
@@ -30,3 +30,5 @@
 
 ## Usage
 - npm start
+
+
